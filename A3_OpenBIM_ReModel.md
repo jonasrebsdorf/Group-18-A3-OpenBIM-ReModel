@@ -15,20 +15,19 @@ It is therefore relevant to be able to identify potential problems, errors and s
 
 ###### BPMN ideal use case
 
-
-
-
-
+<img title="" src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/371470391_716210890371301_8099531955966266226_n.png?_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=zCHr7px9LewAX_w6mby&_nc_ht=scontent-arn2-1.xx&oh=03_AdTTkhxlLt7RQeKI_b-f6pqyePdUFRkFDgK_ZQsz3tCwKg&oe=6571AD8E" alt="Ingen tilgængelig beskrivelse." data-align="center">
 
 ##### Current use case
 
-![Ingen tilgængelig beskrivelse.](https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/380423394_1280507865944719_606232001069171716_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=BTlqgrNkQl4AX8i9LDm&_nc_ht=scontent-arn2-1.xx&oh=03_AdStmIrROZaVt87AADY3mMkGjiHVPnXJOhPKgW4KkSpn1w&oe=6571B84D)
+<img title="" src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/380423394_1280507865944719_606232001069171716_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=BTlqgrNkQl4AX8i9LDm&_nc_ht=scontent-arn2-1.xx&oh=03_AdStmIrROZaVt87AADY3mMkGjiHVPnXJOhPKgW4KkSpn1w&oe=6571B84D" alt="Ingen tilgængelig beskrivelse." width="425" data-align="center">
 
 Our script provides an overview of discrepancies between the IFC2x3 and IFC4 file. This is done by providing an overview of the amount of elements, so one easily can see the differences between the two file types. At the same time, the script addresses one of the many potential challenges that could arise in the upgrade process, namely the addition of material layer thicknesses in walls, as has been the case with the available SkyLab models.
 
 ###### BPMN current use case
 
-![Alt text](C:\Users\Jonas\Downloads\Current_use_case.svg)The mindset of transferring information from IFC2x3 to IFC4 in the script is assumed to be applicable to other issues, since the script follows three easily adaptable steps:
+<img title="" src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/385486494_855138912924780_156081769804263117_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=_NrlgB0-hoEAX_sedsY&_nc_ht=scontent-arn2-1.xx&oh=03_AdTR7NzR27Jsr5wdNctXlLw9XHoFWSJ8qeZyPLTDhLIkjQ&oe=6571AA7B" alt="Ingen tilgængelig beskrivelse." data-align="center">
+
+The mindset of transferring information from IFC2x3 to IFC4 in the script is assumed to be applicable to other issues, since the script follows three easily adaptable steps:
 
 1. Identify discrepancies between IFC2x3 and IFC4 format
 
@@ -192,17 +191,17 @@ if _name_ == "_main_":
 
 #### Documentation of script working
 
-Material information in blender **before** script is used:
+Material information in Blender **before** script is used:
 
-![](C:\Users\Jonas\AppData\Roaming\marktext\images\2023-11-07-15-12-07-image.png)
+<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/385544819_793303802553160_1679262195596892870_n.png?_nc_cat=105&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=a7yoINVLB0wAX8Nk6or&_nc_ht=scontent-arn2-1.xx&oh=03_AdRzCpBiUl4y5Juu6yYUhWM0SnzDrKRo5lDK-E8bJd8OGQ&oe=6571AA4E" title="" alt="Ingen tilgængelig beskrivelse." data-align="center">
 
-![](C:\Users\Jonas\AppData\Roaming\marktext\images\2023-11-07-15-12-50-image.png)
+<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/363496327_862382198604494_8405925019745729086_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=yhaUpLuVWN4AX9nbeGR&_nc_ht=scontent-arn2-1.xx&oh=03_AdRYEZZr7RgOFCBHciOZQmJHY30FRmJ5vPFPMn1y02Qakw&oe=6571C676" title="" alt="Ingen tilgængelig beskrivelse." data-align="center">
 
-Material information in blender **after** script is used:
+Material information in Blender **after** script is used:
 
-<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/385520761_338475392108483_4848204249677253634_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=WA_G9vV_ebQAX-Bztrk&_nc_ht=scontent-arn2-1.xx&oh=03_AdSoSL9LRy0Ph2vho6YQD0FVs5a8FUSIY1_VumPQnsmqPw&oe=6571B709" title="" alt="Ingen tilgængelig beskrivelse." width="648">
+<img title="" src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/385520761_338475392108483_4848204249677253634_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=WA_G9vV_ebQAX-Bztrk&_nc_ht=scontent-arn2-1.xx&oh=03_AdSoSL9LRy0Ph2vho6YQD0FVs5a8FUSIY1_VumPQnsmqPw&oe=6571B709" alt="Ingen tilgængelig beskrivelse." width="648" data-align="center">
 
-![Ingen tilgængelig beskrivelse.](https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/371480522_1812465755844437_1436028577262163088_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=l61DBT_uPu4AX8t0JaK&_nc_ht=scontent-arn2-1.xx&oh=03_AdRel28SR1RVNclvfSVdrSQY83xxzi805f5DVmpyifGiRg&oe=6571B6E3)
+<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/371480522_1812465755844437_1436028577262163088_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=l61DBT_uPu4AX8t0JaK&_nc_ht=scontent-arn2-1.xx&oh=03_AdRel28SR1RVNclvfSVdrSQY83xxzi805f5DVmpyifGiRg&oe=6571B6E3" title="" alt="Ingen tilgængelig beskrivelse." data-align="center">
 
 
 
