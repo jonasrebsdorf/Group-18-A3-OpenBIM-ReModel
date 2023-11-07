@@ -15,11 +15,14 @@ It is therefore relevant to be able to identify potential problems, errors and s
 
 ###### BPMN ideal use case
 
-![Alt text](C:\Users\Jonas\Downloads\Ideal_use_case.svg)
+
+
+
+
 
 ##### Current use case
 
-<img title="" src="file:///C:/Users/Jonas/AppData/Roaming/marktext/images/2023-11-07-14-33-14-image.png" alt="" width="604" data-align="center">
+![Ingen tilgængelig beskrivelse.](https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/380423394_1280507865944719_606232001069171716_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=BTlqgrNkQl4AX8i9LDm&_nc_ht=scontent-arn2-1.xx&oh=03_AdStmIrROZaVt87AADY3mMkGjiHVPnXJOhPKgW4KkSpn1w&oe=6571B84D)
 
 Our script provides an overview of discrepancies between the IFC2x3 and IFC4 file. This is done by providing an overview of the amount of elements, so one easily can see the differences between the two file types. At the same time, the script addresses one of the many potential challenges that could arise in the upgrade process, namely the addition of material layer thicknesses in walls, as has been the case with the available SkyLab models.
 
